@@ -1,0 +1,2 @@
+#!/bin/bach
+gcc -E $CFILE -o c
