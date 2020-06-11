@@ -14,27 +14,22 @@ int n, LastDigit;
 srand(time(0));
 
 n = rand() - RAND_MAX / 2;
-
-printf("Last digit of");
-printf(" ");
-printf("%d", n);
-printf(" ");
-printf("is");
 LastDigit = n % 10;
-printf(" ");
-printf("%d", LastDigit);
-printf(" ");
+{
+printf("Last digit of %d", n);
+printf(" is %d", LastDigit);
+}
 if (LastDigit > 5)
 {
-printf("and is greater than 5 and is not 0\n");
+printf(" and is greater than 5 and is not 0\n");
 }
 else if (LastDigit == 0)
 {
-printf("and is 0\n");
+printf(" and is 0\n");
 }
 else
 {
-printf("and is less than 6 and not 0\n");
+printf(" and is less than 6 and not 0\n");
 }
 return (0);
 }
