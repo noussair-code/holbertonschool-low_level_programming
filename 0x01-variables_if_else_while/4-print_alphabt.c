@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - last digit
-* @a -char
+* main - Alphabets
+* 
 * Return: 0
 **/
 int main(void)
