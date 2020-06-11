@@ -8,17 +8,17 @@
 int main(void)
 {
 char a = 'a';
-char A = 'A';
+char B = 'A';
 
 while (a <= 'z')
 {
 putchar(a);
 a++;
 }
-while (A <= 'Z')
+while (B <= 'Z')
 {
-putchar(A);
-A++;
+putchar(B);
+B++;
 }
 putchar('\n');
 return (0);
