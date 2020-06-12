@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*add digits
+*main - add digits
 *
 *Return: 0
 **/
