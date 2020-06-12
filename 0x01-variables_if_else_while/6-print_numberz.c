@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
 *add digits
-* 
-* Return: 0
+*
+*Return: 0
 **/
 int main(void)
 {
