@@ -1,24 +1,19 @@
 #include <stdio.h>
 /**
-* main - print_comb2
-* Return: 0
+*main - print_comb2
+*Return: 0
 **/
 int main(void)
 {
-int i, j;
-for (i = 0; i < 10; i++)
+int a;
+for (a = 0; a < 100; a++)
 {
-for (j = i + 1; j < 10; j++)
-{
-putchar(i + '0');
-putchar(j + '0');
-if ((i == 8) && (j == 9))
-;
-else
+putchar(a / 10 + '0');
+putchar(a % 10 + '0');
+if (a < 99)
 {
 putchar(',');
 putchar(' ');
-}
 }
 }
 putchar('\n');
