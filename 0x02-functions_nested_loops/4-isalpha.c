@@ -1,13 +1,15 @@
 #include "holberton.h"
 /**
-* isalpha - alphabetic
-*
-* Return: Always 0.
-*/
+ * _isalpha - check the code for Holberton School students.
+ *@c: dsdsds
+ *Return: Description of the returned value
+ */
 int _isalpha(int c)
 {
-if ((c >= 'a' && c <='z') || (c >= 'A' && c <= 'z'))
-return (1);
-else
-return (0);
+	if ((c >= 'A') && (c <= 'Z'))
+		return (1);
+	else if ((c >= 'a') && (c <= 'z'))
+		return (1);
+	else
+		return (0);
 }

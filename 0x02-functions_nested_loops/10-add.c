@@ -1,10 +1,11 @@
 #include "holberton.h"
 /**
-*add - add integer
-*
-* Return: i + j
-*/
-int add(int i, int j)
+ * add - check the code for Holberton School students.
+ *@a: fdfdfd
+ *@b: fdfdfd
+ * Return: Always 0.
+ */
+int add(int a, int b)
 {
-return (i + j);
+	return (a + b);
 }

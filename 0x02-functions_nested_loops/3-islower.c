@@ -1,17 +1,14 @@
 #include "holberton.h"
 /**
-*_islower - lowercase
-*
-* Return: Always 0.
-*/
+ * _islower - hello betty
+ *@c: dfdfdfd
+ * Return: Description of the returned value
+ */
 int _islower(int c)
 {
-if (c >= 'a' && c <= 'z')
-{
-return (1);
-}
-else
-{
-return (0);
-}
+	if ((c >= 'a') && (c <= 'z'))
+		return (1);
+	if ((c >= 'A') && (c <= 'Z'))
+		return (0);
+	return (0);
 }

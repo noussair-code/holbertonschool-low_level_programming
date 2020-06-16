@@ -1,14 +1,14 @@
 #include "holberton.h"
 /**
-*_abs - check abs 
-*
-* Return: Always 0.
-*/
-int _abs(int i)
+ * _abs - check the code for Holberton School students.
+ * @x: dsdsd
+ * Return: Always 0.
+ */
+int _abs(int x)
 {
-if (i < 0)
-{
-i *= -1;
-}
-return (i);
+	if (x >= 0)
+		return (x);
+	if (x < 0)
+		return (x * -1);
+	return (0);
 }

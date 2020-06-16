@@ -1,1 +1,4 @@
-MANUAL
+dsdjqslkdjqsldksqkldsdds
+dsdhushdsldklsds dsdsudhszjd
+dsdhsdkjsods
+ djsdl sdsd sdsdsj
