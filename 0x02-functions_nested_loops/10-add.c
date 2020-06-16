@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*add - adds two integers and returns the result
+*add - add integer
 *
 * Return: i + j
 */

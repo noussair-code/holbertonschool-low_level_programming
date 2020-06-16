@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*print_alphabet_x10 - check the code for Holberton School students.
+*print_alphabet_x10 - alpha x10
 *
 *Return 1
 **/

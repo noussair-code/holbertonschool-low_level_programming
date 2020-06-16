@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*abs - check the code for Holberton School students.
+*_abs - check abs 
 *
 * Return: Always 0.
 */

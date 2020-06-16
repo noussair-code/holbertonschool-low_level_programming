@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-*print_sign - prints the sign of a number.
+*print_sign - print sign
 *
 *Return: Always 0.
 */
