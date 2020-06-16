@@ -1,9 +1,9 @@
 #include "holberton.h"
 /**
- * _islower - check for the lowercase characters.
- *
- * Return: Always 0.
- */
+* _islower - check for the lowercase characters.
+*
+* Return: Always 0.
+*/
 int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
