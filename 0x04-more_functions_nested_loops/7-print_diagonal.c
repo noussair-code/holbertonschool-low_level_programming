@@ -1,7 +1,7 @@
 #include "holberton"
 /**
  * print_diagonal - check the code for Holberton School students.
- *
+ * @n: int n
  * Return: Always 0.
  */
 void print_diagonal(int n)
