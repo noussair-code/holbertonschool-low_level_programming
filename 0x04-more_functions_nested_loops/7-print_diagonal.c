@@ -1,4 +1,4 @@
-#include "holberton"
+#include "holberton.h"
 /**
  * print_diagonal - check the code for Holberton School students.
  * @n: int n
