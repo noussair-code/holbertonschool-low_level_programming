@@ -1,6 +1,7 @@
 #include "holberton.h"
 /**
-* 6-print_line
+* print_line - 6-print_line
+* @n: int n
 * Return: 0
 **/
 void print_line(int n)
