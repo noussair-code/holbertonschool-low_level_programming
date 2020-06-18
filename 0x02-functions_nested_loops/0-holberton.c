@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
  * main - Entry point
- * _putchar function
- * Return: Always 0 (Success)
+ * _putchar func
+ * Return: Always 0
  */
 int main(void)
 {
