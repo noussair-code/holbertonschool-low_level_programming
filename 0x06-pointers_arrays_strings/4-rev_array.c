@@ -1,10 +1,8 @@
 =#include "holberton.h"
 /**
- *reverse_array - reverse array
- *
- *@a: ptr
+ *reverse_array - array
+ *@a: pointer
  *@n: length
- *
  */
 void reverse_array(int *a, int n)
 {
@@ -22,4 +20,3 @@ a[b] = a[n - 1 - b];
 a[n - 1 - b] = c;
 }
 }
-
