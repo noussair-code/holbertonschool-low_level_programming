@@ -1,11 +1,10 @@
 #include "holberton.h"
 #include <stdio.h>
-
 /**
  *_strcar - strcat
  *@dest: dest
  *@src: dest
- * Return: Always 0.
+ *Return: Always 0.
  */
 char *_strcat(char *dest, char *src)
 {
